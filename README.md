@@ -9,6 +9,8 @@ Geliştirici, bu yazılımın kötüye kullanılması nedeniyle oluşabilecek he
 
 Lütfen etik dışı veya hukuka aykırı amaçlarla kullanmayınız.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ⚠️ WARNING / DISCLAIMER ⚠️
 This project is developed solely for educational and ethical purposes. Any malicious or illegal use of this software is strictly prohibited.
 
