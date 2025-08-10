@@ -1,4 +1,4 @@
-⚠️ UYARI / DISCLAIMER ⚠️
+⚠️ UYARI ⚠️
 Bu proje sadece eğitim ve etik amaçlarla geliştirilmiştir. Burada paylaşılan yazılımın kötü niyetli veya yasa dışı kullanımı kesinlikle yasaktır.
 
 Yazılımın herhangi bir izinsiz kullanımından, veri kaydından veya yetkisiz erişimden doğacak tüm sorumluluk kullanıcıya aittir.
@@ -11,7 +11,7 @@ Lütfen etik dışı veya hukuka aykırı amaçlarla kullanmayınız.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⚠️ WARNING / DISCLAIMER ⚠️
+⚠️ WARNING ⚠️
 This project is developed solely for educational and ethical purposes. Any malicious or illegal use of this software is strictly prohibited.
 
 Users are fully responsible for any unauthorized use, recording, or access performed with this software.
